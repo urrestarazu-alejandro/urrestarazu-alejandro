@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 
 ## En pocas palabras
 
+Backend Software Developer - Java | Goland | Kotlin | Git | CI/CD | APIs | SQL | Mockito | Gradle | KVS | DS | GraphQL
+🇦🇷👋
+
+-----
+
 [![Blog](https://img.shields.io/badge/personal_blog-memobackend-ebebeb?style=for-the-badge&logo=github
 )](https://memobackend.com.ar)
 
@@ -24,7 +29,6 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/linkedin-aurrestarazu-blue?style=for-the-badge&logo=linkedin
 )]([aaaa.com](https://www.linkedin.com/in/urrestarazualejandro))
 
------
 
-Backend Software Developer - Java | Goland | Kotlin | Git | CI/CD | APIs | SQL | Mockito | Gradle | KVS | DS | GraphQL
-🇦🇷👋
+
+
