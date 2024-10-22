@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 [![Blog](https://img.shields.io/badge/personal_blog-memobackend-ebebeb?style=for-the-badge&logo=github
 )](https://memobackend.com.ar)
+
 [![SO](https://img.shields.io/badge/stackoverflow-alejandro_urrestarazu-fa9a36?style=for-the-badge&logo=stackoverflow
 )](https://es.stackoverflow.com/users/30418/alejandro-urrestarazu)
+
 [![Linkedin](https://img.shields.io/badge/linkedin-aurrestarazu-blue?style=for-the-badge&logo=linkedin
 )]([aaaa.com](https://www.linkedin.com/in/urrestarazualejandro))
 
