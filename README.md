@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=500&color=339C00&background=111111ED&width=600&lines=%3E_;%3E+Backend+developer;%3E+Cordob%C3%A9s+Argentino;%3E+Apasionado+por+la+ciencias+de+la+computaci%C3%B3n)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&duration=4000&pause=500&color=339C00&background=111111ED&width=600&lines=%3E_;%3E+Backend+developer;%3E+Cordob%C3%A9s+Argentino;%3E+Apasionado+por+las+ciencias+de+la+computaci%C3%B3n)](https://git.io/typing-svg)
 ## En pocas palabras
 
 Backend Software Developer - Java | Goland | Kotlin | Git | CI/CD | APIs | SQL | Mockito | Gradle | KVS | DS | GraphQL
