@@ -29,6 +29,8 @@ Backend Software Developer - Java | Goland | Kotlin | Git | CI/CD | APIs | SQL |
 [![Linkedin](https://img.shields.io/badge/linkedin-aurrestarazu-blue?style=for-the-badge&logo=linkedin
 )]([aaaa.com](https://www.linkedin.com/in/urrestarazualejandro))
 
+### Mis contribuciones Github
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=urrestarazu-alejandro&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
