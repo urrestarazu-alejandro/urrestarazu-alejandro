@@ -32,4 +32,4 @@ Backend Software Developer - Java | Goland | Kotlin | Git | CI/CD | APIs | SQL |
 
 ### Mis contribuciones Github
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urrestarazu-alejandro" alt="urrestarazu-alejandro" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=urrestarazu-alejandro&theme=dark&locale=es&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
