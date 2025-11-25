@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## En pocas palabras
 
-Backend Software Developer - Java | Goland | Kotlin | Git | CI/CD | APIs | SQL | Mockito | Gradle | KVS | DS | GraphQL
+Backend Software Developer - Java | Git | CI/CD | APIs | SQL | Mockito | Gradle | KVS | DS | GraphQL
 🇦🇷👋
 
 ---
