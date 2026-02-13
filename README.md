@@ -26,13 +26,6 @@ En mi tiempo libre, mantengo [**Memorias de un Backend**](https://memobackend.co
 conocimientos y experiencias sobre desarrollo de software en español, como una forma de devolver a la comunidad todo lo
 que he aprendido.
 
-### 🎯 Actualmente
-
-- 🔭 Trabajando en: **Microservicios de Seller Central en Mercado Libre**
-- 🌱 Aprendiendo: **Event-Driven Architecture y patrones avanzados**
-- 📝 Escribiendo en: **[Memorias de un Backend](https://memobackend.com.ar)**
-- 💬 Pregúntame sobre: **Java, APIs, Microservicios, Clean Architecture**
-
 ---
 
 ## 🛠️ Stack Tecnológico
