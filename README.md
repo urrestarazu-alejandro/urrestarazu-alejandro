@@ -107,16 +107,6 @@ que he aprendido.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=urrestarazu-alejandro&theme=gruvbox&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
 ## 🌐 Conecta Conmigo
 
 <div align="center">
